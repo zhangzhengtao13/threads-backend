@@ -1,0 +1,119 @@
+2023/03/31 10:57:45 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","time":1680231465166604100}
+2023/03/31 11:03:13 {"callers":["d:/codes/codes_Go/threads-service/main.go:101 main.steupLogger"],"level":"info","time":1680231793121158100}
+2023/03/31 11:03:54 {"callers":["d:/codes/codes_Go/threads-service/pkg/logger/logger.go:91 threads-service/pkg/logger.(*Logger).WithCaller"],"level":"info","time":1680231834405006200}
+2023/03/31 11:04:43 {"callers":["C:/Program Files/Go/src/runtime/proc.go:6506 runtime.doInit"],"level":"info","time":1680231883149567000}
+2023/03/31 11:09:59 {"callers":["d:/codes/codes_Go/threads-service/pkg/logger/logger.go:105 threads-service/pkg/logger.(*Logger).WithCallesFrames","d:/codes/codes_Go/threads-service/main.go:101 main.steupLogger","d:/codes/codes_Go/threads-service/main.go:27 main.init.0","C:/Program Files/Go/src/runtime/proc.go:6506 runtime.doInit","C:/Program Files/Go/src/runtime/proc.go:233 runtime.main"],"level":"info","time":1680232199506210000}
+2023/03/31 11:14:49 {"callers":["d:/codes/codes_Go/threads-service/pkg/logger/logger.go:105 threads-service/pkg/logger.(*Logger).WithCallesFrames","d:/codes/codes_Go/threads-service/main.go:101 main.steupLogger","d:/codes/codes_Go/threads-service/main.go:27 main.init.0","C:/Program Files/Go/src/runtime/proc.go:6506 runtime.doInit","C:/Program Files/Go/src/runtime/proc.go:233 runtime.main"],"level":"info","time":1680232489004602700}
+2023/03/31 11:16:58 {"callers":["d:/codes/codes_Go/threads-service/pkg/logger/logger.go:105 threads-service/pkg/logger.(*Logger).WithCallesFrames","d:/codes/codes_Go/threads-service/main.go:101 main.steupLogger","d:/codes/codes_Go/threads-service/main.go:27 main.init.0","C:/Program Files/Go/src/runtime/proc.go:6506 runtime.doInit","C:/Program Files/Go/src/runtime/proc.go:233 runtime.main"],"level":"info","time":1680232618650880700}
+2023/03/31 11:20:10 {"callers":["d:/codes/codes_Go/threads-service/pkg/logger/logger.go:105 threads-service/pkg/logger.(*Logger).WithCallesFrames","d:/codes/codes_Go/threads-service/main.go:101 main.steupLogger","d:/codes/codes_Go/threads-service/main.go:27 main.init.0","C:/Program Files/Go/src/runtime/proc.go:6506 runtime.doInit","C:/Program Files/Go/src/runtime/proc.go:233 runtime.main"],"level":"info","time":1680232810809443900}
+2023/03/31 11:21:50 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","time":1680232910413749000}
+2023/03/31 11:26:28 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680233188949980900}
+2023/03/31 13:16:08 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680239768560573900}
+2023/04/03 10:21:54 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680488514792877800}
+2023/04/03 10:44:08 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680489848214449700}
+2023/04/03 10:48:11 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680490091528013600}
+2023/04/03 10:52:25 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680490345915238200}
+2023/04/03 10:57:54 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680490674594402100}
+2023/04/03 11:05:57 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680491157644515700}
+2023/04/03 11:07:13 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680491233764075100}
+2023/04/03 11:21:59 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680492119524324500}
+2023/04/03 11:22:22 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680492142665456500}
+2023/04/03 11:29:38 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680492578214132800}
+2023/04/03 12:16:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680495379426760500}
+2023/04/03 12:19:58 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680495598076329200}
+2023/04/03 12:44:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680497059574329900}
+2023/04/03 17:40:32 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680514832490948100}
+2023/04/03 17:42:32 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs:[State必须是[0 1]中的一个]","time":1680514952881825200}
+2023/04/03 17:42:55 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs:[State必须是[0 1]中的一个]","time":1680514975267325000}
+2023/04/04 09:55:22 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680573322040418800}
+2023/04/05 11:46:49 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680666409005203200}
+2023/04/05 11:56:28 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680666988002236600}
+2023/04/05 12:19:49 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680668389214552900}
+2023/04/05 12:44:38 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680669878621654500}
+2023/04/05 12:49:18 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680670158351026900}
+2023/04/05 14:10:11 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680675011576107300}
+2023/04/05 14:10:29 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CreateTag err:Error 1366: Incorrect string value: '\\xC0\\xB3\\xB8\\xEA\\xC2\\xE5' for column 'created_by' at row 1","time":1680675029942203800}
+2023/04/05 14:12:21 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CreateTag err:Error 1366: Incorrect string value: '\\xC0\\xB3\\xB8\\xEA\\xC2\\xE5' for column 'created_by' at row 1","time":1680675141438779200}
+2023/04/05 15:56:12 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680681372064392600}
+2023/04/05 15:56:23 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name为必填字段'CreatedBy为必填字段","time":1680681383686482400}
+2023/04/05 15:57:24 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name为必填字段'CreatedBy为必填字段","time":1680681444934293200}
+2023/04/05 15:58:44 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name为必填字段'CreatedBy为必填字段","time":1680681524027354100}
+2023/04/05 16:05:41 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid errs: CreatedBy长度必须至少为3个字符'Name长度必须至少为3个字符","time":1680681941647154900}
+2023/04/05 16:28:54 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CreateTag err:Error 1366: Incorrect string value: '\\xBD\\xA2\\xCA\\xC0\\xBD\\xE7' for column 'name' at row 1","time":1680683334342415900}
+2023/04/05 16:31:35 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CreateTag err:Error 1366: Incorrect string value: '\\xC7\\xC8\\xC7\\xC5' for column 'name' at row 1","time":1680683495417609400}
+2023/04/05 16:51:24 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680684684993143000}
+2023/04/05 16:51:36 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CountTag err: Error 1103: Incorrect table name ''","time":1680684696028394200}
+2023/04/05 16:58:37 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680685117884756000}
+2023/04/05 17:20:50 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.UpdateTag err:Error 1103: Incorrect table name ''","time":1680686450922774000}
+2023/04/05 17:23:12 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680686592072950900}
+2023/04/05 17:43:02 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680687782793387900}
+2023/04/08 11:13:21 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680923601527988400}
+2023/04/08 12:40:48 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680928848138697000}
+2023/04/08 12:40:59 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680928859589084600}
+2023/04/08 12:41:44 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680928904720067100}
+2023/04/08 12:42:33 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680928953420218200}
+2023/04/08 12:53:46 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680929626958107800}
+2023/04/08 12:54:40 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680929680443018800}
+2023/04/08 20:32:18 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680957138262067400}
+2023/04/08 20:32:25 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: TagID为必填字段'CoverImageUrl为必填字段'CreatedBy为必填字段","time":1680957145835489200}
+2023/04/08 20:35:09 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: CoverImageUrl必须是一个有效的URL","time":1680957309991477200}
+2023/04/08 20:51:00 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: Content长度必须至少为2个字符'CoverImageUrl必须是一个有效的URL'Title长度必须至少为2个字符'Desc长度必须至少为2个字符","time":1680958260606355000}
+2023/04/08 20:52:42 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err: Title长度必须至少为2个字符","time":1680958362833824200}
+2023/04/08 20:53:07 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.UpdateArticle err:Error 1054: Unknown column 'atticle_id' in 'where clause'","time":1680958387309746800}
+2023/04/08 20:55:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1680958519157661300}
+2023/04/08 21:02:51 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.DeleteArticle err: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=\u003e and deleted=?) LIMIT 1' at line 1","time":1680958971244764400}
+2023/04/08 21:04:39 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.DeleteArticle err: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=\u003e and deleted=?) LIMIT 1' at line 1","time":1680959079916986700}
+2023/04/10 10:01:48 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681092108395576800}
+2023/04/10 10:06:22 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.DeleteArticle err: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=\u003e and deleted=?) LIMIT 1' at line 1","time":1681092382713689200}
+2023/04/10 10:16:31 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681092991604058600}
+2023/04/10 10:33:21 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticleList err:Error 1146: Table 'blog_service.blog_article_tagas' doesn't exist","time":1681094001095320400}
+2023/04/10 10:35:15 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticleList err:Error 1146: Table 'blog_service.blog_article_tagas' doesn't exist","time":1681094115372512800}
+2023/04/10 10:42:02 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681094522594194200}
+2023/04/10 10:47:03 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681094823275369300}
+2023/04/10 10:47:17 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681094837464693900}
+2023/04/10 10:47:38 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err:TagID必须大于或等于1","time":1681094858254556900}
+2023/04/10 10:48:50 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.BindAndValid err:TagID必须大于或等于1","time":1681094930892451600}
+2023/04/10 10:49:01 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681094941649310100}
+2023/04/10 10:49:24 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681094964928461300}
+2023/04/10 11:01:39 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095699516937900}
+2023/04/10 11:02:02 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681095722126226700}
+2023/04/10 11:02:07 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095727887882700}
+2023/04/10 11:02:15 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095735525152600}
+2023/04/10 11:02:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095739733404000}
+2023/04/10 11:02:23 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095743648846300}
+2023/04/10 11:02:29 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095749979297300}
+2023/04/10 11:04:10 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681095850821404500}
+2023/04/10 11:08:22 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681096102400637000}
+2023/04/10 11:11:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681096279545444800}
+2023/04/10 11:11:27 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681096287860539400}
+2023/04/10 11:11:34 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.GetArticle err:record not found","time":1681096294061711600}
+2023/04/10 11:17:11 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.DeleteArticle err: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=\u003e and deleted=?) LIMIT 1' at line 1","time":1681096631919237000}
+2023/04/10 11:27:33 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681097253283124200}
+2023/04/10 21:39:51 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681133991723643800}
+2023/04/10 21:58:20 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.UploadFile err: exceeded maximum file limit","time":1681135100805529500}
+2023/04/10 22:05:59 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681135559785553800}
+2023/04/10 22:06:19 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"上传的图片大小:2241656","time":1681135579527950100}
+2023/04/10 22:20:24 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681136424891891100}
+2023/04/11 09:22:55 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681176175611444600}
+2023/04/11 15:45:56 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681199156832293800}
+2023/04/11 15:46:03 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"svc.CheckAuth(\u0026param) err: auth info not existant","time":1681199163803617700}
+2023/04/11 15:49:11 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681199351373618100}
+2023/04/11 15:49:26 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.GenerateToken(param.AppKey, param.AppSecret) err: key is of invalid type","time":1681199366930722600}
+2023/04/11 16:02:32 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"error","message":"app.GenerateToken(param.AppKey, param.AppSecret) err: key is of invalid type","time":1681200152451651100}
+2023/04/11 16:26:06 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681201566211263200}
+2023/04/11 17:08:03 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681204083838167000}
+2023/04/12 20:57:21 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681304241507701600}
+2023/04/12 20:58:28 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681304308338988800}
+2023/04/12 23:19:39 {"callers":["d:/codes/codes_Go/threads-service/main.go:27 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681312779948274600}
+2023/04/13 15:44:08 {"callers":["d:/codes/codes_Go/threads-service/main.go:28 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681371848975870100}
+2023/04/13 15:46:00 {"callers":["d:/codes/codes_Go/threads-service/main.go:28 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681371960966549800}
+2023/04/13 22:21:15 {"callers":["d:/codes/codes_Go/threads-service/main.go:29 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681395675856763800}
+2023/04/13 22:37:00 {"callers":["d:/codes/codes_Go/threads-service/main.go:29 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681396620975584300}
+2023/04/13 22:42:17 {"callers":["d:/codes/codes_Go/threads-service/main.go:29 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681396937851961200}
+2023/04/13 22:54:50 {"callers":["d:/codes/codes_Go/threads-service/main.go:29 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681397690523952300}
+2023/04/14 11:25:18 {"callers":["d:/codes/codes_Go/threads-service/main.go:42 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681442718337493500}
+2023/04/14 11:31:33 {"callers":["d:/codes/codes_Go/threads-service/main.go:42 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681443093432475700}
+2023/04/14 12:24:08 {"callers":["d:/codes/codes_Go/threads-service/main.go:42 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681446248470946300}
+2023/04/14 16:12:27 {"callers":["d:/codes/codes_Go/threads-service/main.go:48 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681459947424948400}
+2023/04/14 16:16:45 {"callers":["d:/codes/codes_Go/threads-service/main.go:48 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681460205473756300}
+2023/04/14 16:20:05 {"callers":["d:/codes/codes_Go/threads-service/main.go:48 main.init.0"],"level":"info","message":"博客启动成功:开始讨论战舰世界!","time":1681460405961690200}

@@ -20,7 +20,7 @@ App:
 DataBase:
   DBType: mysql
   UserName: root
-  Password: Hy424210!
+  Password: xxxxxxxx
   Host: 124.223.194.160:3306
   DBName: blog_service
   TablePrefix: blog_
@@ -36,7 +36,7 @@ Email:
   Host: smtp.163.com
   Port: 465
   UserName: zhanghytony@163.com
-  Password: FWXKXGBWAPNEOECD
+  Password: xxxxxxxxx
   IsSSL: True
   From: zhanghytony@163.com
   To:
